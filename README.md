@@ -8,6 +8,7 @@
 - Java BE
   + open datn-be
   + set up java 8
+  + open datn-be -> src -> main -> resource -> application.properties -> change username and sql password of u
   + Reload dependencies 
   + Tab Maven (góc phải trên), clean -> compile -> install  -> run
 - FE
