@@ -15,3 +15,7 @@
 + open datn-fe
 + download nodejs if u font have it (https://nodejs.org/en/download)
 + teminal -> npm i -> npm start
+
+----------------------------------
+ACCOUNT FOR ADMIN FUNCTION (username: admin , password: admin12345)
+ACCOUNT FOR CUSTOMER FUNCTION TRY (username: khachhang , password 123456aA! Or khachhang1234554321) or u create yourself =)) . maybe i dont remember account of customer
