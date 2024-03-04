@@ -17,5 +17,13 @@
 + teminal -> npm i -> npm start
 
 ----------------------------------
-ACCOUNT FOR ADMIN FUNCTION (username: admin , password: admin12345)
-ACCOUNT FOR CUSTOMER FUNCTION TRY (username: khachhang , password 123456aA! Or khachhang1234554321) or u create yourself =)) . maybe i dont remember account of customer
+- ACCOUNT FOR ADMIN FUNCTION (username: admin , password: admin12345)
+
+- ACCOUNT FOR CUSTOMER FUNCTION TRY (username: khachhang , password 123456aA! Or khachhang1234554321) or u create yourself =)) . maybe i dont remember account of customer
+
+ -Use this card to buy product by credit
+  + Ngân hàng NCB
+  + Số thẻ 9704198526191432198
+  + Tên chủ thẻ NGUYEN VAN A
+  + Ngày phát hành 07/15
+  + Mật khẩu OTP 123456
